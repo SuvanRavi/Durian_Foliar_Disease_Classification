@@ -1,0 +1,22 @@
+[theme]
+primaryColor = "#228B22"
+backgroundColor = "#F8FFF1"
+secondaryBackgroundColor = "#E8F5E9"
+textColor = "#263238"
+font = "sans serif"
+base = "light"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+runOnSave = false
+
+[client]
+toolbarMode = "minimal"
+
+[global]
+developmentMode = false
+
+[logger]
+level = "debug"
