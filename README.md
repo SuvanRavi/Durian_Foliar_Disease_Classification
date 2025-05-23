@@ -94,6 +94,8 @@ The expanded training set was further augmented on-the-fly using Keras' ImageDat
 * Flipping across horizontal axis.
 * Brightness shift by 20%
 
+![Augmented Set](images/augment.png)
+
 #### Stress Test Dataset
 Using a similar strategy as above, the test dataset was also augmented to create a separate stress test dataset, to be used as a metric in assessing model robustness.
 
