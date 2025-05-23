@@ -29,6 +29,7 @@ An initial Exploratory Data Analysis (EDA) was conducted to thoroughly explore t
 
 ### Sampling Images per Class
 Several images were selected randomly from each class and displayed.
+
 ![Sample Images](images/img_sample.png)
 
 ### Class Distribution
